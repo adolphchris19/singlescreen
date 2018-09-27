@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="nickname">Nickname: THE RED DEVILS</string>
+    <string name="manutd">Manutd.com</string>
+    <string name="location">Manchester, England</string>
+    <string name="name">Manchester United Football Club</string>
+    <string name="about">Manchester United is a football club in England, currently playing in the English Premier League. </string>
+</resources>
